@@ -12,11 +12,6 @@
 ![](https://streak-stats.demolab.com/?user=Ritika0919-sudo&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ritika0919-sudo&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ritika0919-sudo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ritika0919-sudo&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
@@ -24,4 +19,3 @@
 ---
 [![](https://komarev.com/ghpvc/?username=Ritika0919-sudo&icon=2&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
